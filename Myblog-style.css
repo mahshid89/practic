@@ -1,0 +1,46 @@
+html{
+	margin:0;
+	padding:0;
+}
+
+body {
+	font-family:'handlee',cursive;
+	font-size: 13px;
+	background-color: lightgray;
+	padding: 10px;
+	
+}
+
+h1 {
+	color : lightblue;
+	text-align :center ;
+	margin : 10px auto 20px ;
+	padding: 20px 5px 20px;
+	
+}
+h1 span {
+	border : 3px dashed lightblue;
+	border-radius : 10px;
+	padding: 5px 15px;
+	
+}
+
+.section {
+	background-color: white ;
+	border-radius :10px;
+	margin : auto;
+	width: 80%;
+	height:600px;
+		
+}
+
+li {
+	margin-bottom: 15px;
+	font-weight : 900;
+	
+}
+
+ul {
+	list-style-type : circle;
+	margin-left : 30px;
+}
